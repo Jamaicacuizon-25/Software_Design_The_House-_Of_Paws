@@ -1,2 +1,2 @@
-# Software_Design_The_House-_Of_Paws
-This project aims to give the stray animals to find their loving home and owner. Ang core purpose nito ay magbigyan ng second chance na magkaroon ng masaya at bagong pamilya. Hazel, Jamaica, JohnB, Marc 
+# Software_Design_The_House_Of_Paws
+This project aims to give the stray animals to find their loving home and owner. Its main goal is to give animals a second chamce for a happy fresh start and a new Family. Hazel, Jamaica, JohnB, Marc 
